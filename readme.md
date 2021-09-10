@@ -1,23 +1,30 @@
 ### Button Clicker - Core Assigment
 
-[LIVE DEMO]("DEMO")
+[LIVE DEMO](https://dcruzjs.github.io/buttonClicker-Core/ "LIVE DEMO")
+
+Requirements:
+
+![](https://github.com/Dcruzjs/buttonClicker-Core/blob/master/mockup1.png)
 
 The topics covered were:
 
 - HTML
 - CSS
+
   - pseudo classes
   - transforms
   - variables css
   - colors
   - positions
   - Flexbox
-    -JavaScript
-  - Variables
-  - Functions
-  - Template strings
-  - Document Object Model
-  - Events
+
+- JavaScript
+
+- Variables
+- Functions
+- Template strings
+- Document Object Model
+- Events
 
 Assignments accomplished:
 
