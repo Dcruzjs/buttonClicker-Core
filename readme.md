@@ -21,7 +21,8 @@ The topics covered were:
 - JavaScript
 
   - Variables
-  - Functions
+  - Arrays and its methods
+  - Functions, arrow functions
   - Template strings
   - Document Object Model
   - Events
