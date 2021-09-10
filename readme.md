@@ -20,11 +20,11 @@ The topics covered were:
 
 - JavaScript
 
-- Variables
-- Functions
-- Template strings
-- Document Object Model
-- Events
+  - Variables
+  - Functions
+  - Template strings
+  - Document Object Model
+  - Events
 
 Assignments accomplished:
 
