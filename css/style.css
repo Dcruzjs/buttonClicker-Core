@@ -98,3 +98,6 @@ head + .container {
   width: 80%;
   align-self: center;
 }
+.hidden {
+  display: none;
+}
